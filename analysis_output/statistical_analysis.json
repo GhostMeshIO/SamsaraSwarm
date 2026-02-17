@@ -1,0 +1,1088 @@
+{
+  "temporal_analysis": {
+    "avg_coherence_1min_trend": {
+      "slope": -0.008387964163181693,
+      "r_squared": 0.9045668990606752,
+      "p_value": 0.0035301792092670876,
+      "trend_direction": "decreasing",
+      "trend_strength": 0.8387964163181694
+    },
+    "avg_pleasure_1min_trend": {
+      "slope": -0.036647493376454454,
+      "r_squared": 0.7890294078777248,
+      "p_value": 0.018026957595615227,
+      "trend_direction": "decreasing",
+      "trend_strength": 3.6647493376454454
+    },
+    "avg_fear_1min_trend": {
+      "slope": 0.05946020317551023,
+      "r_squared": 0.9734524593928844,
+      "p_value": 0.00026666376700975914,
+      "trend_direction": "increasing",
+      "trend_strength": 5.946020317551023
+    },
+    "avg_love_1min_trend": {
+      "slope": -0.042335710821101984,
+      "r_squared": 0.9004228470852113,
+      "p_value": 0.003849182640949396,
+      "trend_direction": "decreasing",
+      "trend_strength": 4.233571082110198
+    },
+    "entropy_avg_1min_trend": {
+      "slope": 0.001801382355056783,
+      "r_squared": 0.35326617500641405,
+      "p_value": 0.2134410085556255,
+      "trend_direction": "increasing",
+      "trend_strength": 0.1801382355056783
+    },
+    "regime_changes": {
+      "count": 186,
+      "positions": [
+        54,
+        63,
+        93,
+        99,
+        118,
+        155,
+        168,
+        229,
+        242,
+        299,
+        308,
+        319,
+        348,
+        355,
+        378,
+        565,
+        581,
+        662,
+        681,
+        830,
+        898,
+        932,
+        1069,
+        1209,
+        1278,
+        1314,
+        1367,
+        1413,
+        1517,
+        1531,
+        1567,
+        1660,
+        1754,
+        1841,
+        1907,
+        1922,
+        1979,
+        2065,
+        2106,
+        2334,
+        2350,
+        2614,
+        2846,
+        2882,
+        2892,
+        2904,
+        3065,
+        3103,
+        3119,
+        3140,
+        3217,
+        3332,
+        3348,
+        3455,
+        3575,
+        3624,
+        3787,
+        3793,
+        3962,
+        3976,
+        3988,
+        4047,
+        4083,
+        4317,
+        4513,
+        4565,
+        4643,
+        4679,
+        4709,
+        4893,
+        4987,
+        5106,
+        5214,
+        5222,
+        5279,
+        5340,
+        5609,
+        5627,
+        5634,
+        5869,
+        5971,
+        6131,
+        6163,
+        6182,
+        6273,
+        6530,
+        6785,
+        6807,
+        6827,
+        6846,
+        7008,
+        7046,
+        7124,
+        7318,
+        7912,
+        7956,
+        7976,
+        8081,
+        8098,
+        8175,
+        8684,
+        8988,
+        9567,
+        9725,
+        9842,
+        10183,
+        10233,
+        10309,
+        10695,
+        10907,
+        11069,
+        11094,
+        11248,
+        11341,
+        11427,
+        11531,
+        11546,
+        11766,
+        11965,
+        11998,
+        12342,
+        12380,
+        12426,
+        12719,
+        12812,
+        13057,
+        13071,
+        13117,
+        13464,
+        13554,
+        13571,
+        13622,
+        13637,
+        13704,
+        13753,
+        13886,
+        14209,
+        14327,
+        14364,
+        14625,
+        15001,
+        15114,
+        15133,
+        15150,
+        15228,
+        15234,
+        15501,
+        15511,
+        15649,
+        15669,
+        15888,
+        15910,
+        15916,
+        15949,
+        15988,
+        15996,
+        16022,
+        16250,
+        16278,
+        16631,
+        16641,
+        16694,
+        16775,
+        16885,
+        16929,
+        16962,
+        17133,
+        17157,
+        17241,
+        17322,
+        17335,
+        17350,
+        17574,
+        17656,
+        17703,
+        17791,
+        17814,
+        18006,
+        18062,
+        18093,
+        18120,
+        18215,
+        18300,
+        18328,
+        18388,
+        18524
+      ]
+    }
+  },
+  "entity_analysis": {
+    "entity_statistics": {
+      "god_ent_000": {
+        "coherence_mean": 0.6028893403999289,
+        "coherence_std": 0.0350411936952979,
+        "pleasure_mean": -0.3962151759456408,
+        "fear_mean": 0.7254500692211393,
+        "love_mean": 0.3018936779123917,
+        "entropy_mean": 0.6339149385062669,
+        "age_max": 297.0239999999953,
+        "num_measurements": 18564
+      },
+      "god_ent_001": {
+        "coherence_mean": 0.601502992746338,
+        "coherence_std": 0.034331147639306996,
+        "pleasure_mean": -0.9922437603483821,
+        "fear_mean": 0.8909267646154573,
+        "love_mean": 0.0007486718291913381,
+        "entropy_mean": 0.862803236857622,
+        "age_max": 297.0239999999953,
+        "num_measurements": 18564
+      },
+      "god_ent_002": {
+        "coherence_mean": 0.623281035128638,
+        "coherence_std": 0.029863640898260987,
+        "pleasure_mean": 0.991943803381898,
+        "fear_mean": 0.005174615519261576,
+        "love_mean": 0.995247408427468,
+        "entropy_mean": 0.46173102211151734,
+        "age_max": 297.0239999999953,
+        "num_measurements": 18564
+      },
+      "god_ent_003": {
+        "coherence_mean": 0.6592895222994194,
+        "coherence_std": 0.029138936449964105,
+        "pleasure_mean": 0.31429589511064654,
+        "fear_mean": 0.24708761834484547,
+        "love_mean": 0.6459374815471008,
+        "entropy_mean": 0.6053444673964082,
+        "age_max": 297.0239999999953,
+        "num_measurements": 18564
+      },
+      "god_ent_004": {
+        "coherence_mean": 0.6235855979994901,
+        "coherence_std": 0.02866579632742034,
+        "pleasure_mean": 0.027832047076858317,
+        "fear_mean": 0.6290212768343814,
+        "love_mean": 0.5614216211321578,
+        "entropy_mean": 0.605136793246591,
+        "age_max": 297.0239999999953,
+        "num_measurements": 18564
+      },
+      "god_ent_005": {
+        "coherence_mean": 0.6027919141848697,
+        "coherence_std": 0.033481345835487404,
+        "pleasure_mean": 0.9955461770099225,
+        "fear_mean": 0.0014038447914550135,
+        "love_mean": 0.9969958273807531,
+        "entropy_mean": 0.4268420659602465,
+        "age_max": 297.0239999999953,
+        "num_measurements": 18564
+      },
+      "god_ent_006": {
+        "coherence_mean": 0.5867258067935778,
+        "coherence_std": 0.06572779705195098,
+        "pleasure_mean": 0.9295294485868031,
+        "fear_mean": 0.01642057967525088,
+        "love_mean": 0.9551990359592039,
+        "entropy_mean": 0.47264371131534605,
+        "age_max": 297.0239999999953,
+        "num_measurements": 18564
+      },
+      "god_ent_007": {
+        "coherence_mean": 0.6611961909062315,
+        "coherence_std": 0.025045884568944087,
+        "pleasure_mean": -0.03157938607862135,
+        "fear_mean": 0.45795490002039685,
+        "love_mean": 0.48528438239714494,
+        "entropy_mean": 0.6918057733585979,
+        "age_max": 297.0239999999953,
+        "num_measurements": 18564
+      },
+      "god_ent_008": {
+        "coherence_mean": 0.5888275052899484,
+        "coherence_std": 0.025479939482429412,
+        "pleasure_mean": 0.9840433295677553,
+        "fear_mean": 0.007406521918065834,
+        "love_mean": 0.9908923649606228,
+        "entropy_mean": 0.14147634653890512,
+        "age_max": 297.0239999999953,
+        "num_measurements": 18564
+      },
+      "god_ent_009": {
+        "coherence_mean": 0.5894014580904635,
+        "coherence_std": 0.024887895336785145,
+        "pleasure_mean": -0.258364362864113,
+        "fear_mean": 0.7163125371466121,
+        "love_mean": 0.38152908498536087,
+        "entropy_mean": 0.6099459072008255,
+        "age_max": 297.0239999999953,
+        "num_measurements": 18564
+      },
+      "god_ent_010": {
+        "coherence_mean": 0.5009038177588719,
+        "coherence_std": 0.026882951155633276,
+        "pleasure_mean": -0.39676654880007173,
+        "fear_mean": 0.4997201620373248,
+        "love_mean": 0.29298601754223236,
+        "entropy_mean": 0.5224480692273976,
+        "age_max": 297.0239999999953,
+        "num_measurements": 18564
+      },
+      "god_ent_011": {
+        "coherence_mean": 0.6263058954019763,
+        "coherence_std": 0.025150863071798354,
+        "pleasure_mean": 0.7307808432479025,
+        "fear_mean": 0.013672217235592136,
+        "love_mean": 0.8835489736912099,
+        "entropy_mean": 0.5885396919673425,
+        "age_max": 297.0239999999953,
+        "num_measurements": 18564
+      },
+      "god_ent_012": {
+        "coherence_mean": 0.7076997451341195,
+        "coherence_std": 0.03792885705187147,
+        "pleasure_mean": 0.9982227399137762,
+        "fear_mean": 0.00447067288197191,
+        "love_mean": 0.9987142909873885,
+        "entropy_mean": 0.510099192946056,
+        "age_max": 297.0239999999953,
+        "num_measurements": 18564
+      },
+      "god_ent_013": {
+        "coherence_mean": 0.5874417034149745,
+        "coherence_std": 0.06654251033207866,
+        "pleasure_mean": 0.9965611389261112,
+        "fear_mean": 0.0023284712212642347,
+        "love_mean": 0.9991345979625798,
+        "entropy_mean": 0.25224260679972055,
+        "age_max": 297.0239999999953,
+        "num_measurements": 18564
+      },
+      "god_ent_014": {
+        "coherence_mean": 0.6002898808246312,
+        "coherence_std": 0.035674138842539,
+        "pleasure_mean": 0.7216942226464729,
+        "fear_mean": 0.04629148379945127,
+        "love_mean": 0.8385220104793253,
+        "entropy_mean": 0.5416951427426575,
+        "age_max": 297.0239999999953,
+        "num_measurements": 18564
+      },
+      "god_ent_015": {
+        "coherence_mean": 0.6326767723061307,
+        "coherence_std": 0.038422212693178304,
+        "pleasure_mean": -0.05215070406540772,
+        "fear_mean": 0.13211295707376333,
+        "love_mean": 0.5203178085041658,
+        "entropy_mean": 0.624984135713434,
+        "age_max": 297.0239999999953,
+        "num_measurements": 18564
+      },
+      "god_ent_016": {
+        "coherence_mean": 0.5907211395138348,
+        "coherence_std": 0.024994975076368286,
+        "pleasure_mean": 0.9966642481411461,
+        "fear_mean": 0.0009378579444437315,
+        "love_mean": 0.9986113708665809,
+        "entropy_mean": 0.3394397013742114,
+        "age_max": 297.0239999999953,
+        "num_measurements": 18564
+      },
+      "god_ent_017": {
+        "coherence_mean": 0.6251684841820238,
+        "coherence_std": 0.0294638276585232,
+        "pleasure_mean": 0.20883639240529886,
+        "fear_mean": 0.2919372973159306,
+        "love_mean": 0.5919800672196712,
+        "entropy_mean": 0.6118811405274647,
+        "age_max": 297.0239999999953,
+        "num_measurements": 18564
+      },
+      "god_ent_018": {
+        "coherence_mean": 0.6606856298742922,
+        "coherence_std": 0.026029033623278176,
+        "pleasure_mean": 0.9970945570849817,
+        "fear_mean": 0.0009056368184078186,
+        "love_mean": 0.9988174454108323,
+        "entropy_mean": 0.47024518066568627,
+        "age_max": 297.0239999999953,
+        "num_measurements": 18564
+      },
+      "god_ent_019": {
+        "coherence_mean": 0.5452878715864432,
+        "coherence_std": 0.033286470235027385,
+        "pleasure_mean": -0.9233790525160653,
+        "fear_mean": 0.8336252232226892,
+        "love_mean": 0.033319464512393225,
+        "entropy_mean": 0.7759041953524373,
+        "age_max": 297.0239999999953,
+        "num_measurements": 18564
+      },
+      "god_ent_020": {
+        "coherence_mean": 0.5925000390769747,
+        "coherence_std": 0.02946969185400124,
+        "pleasure_mean": 0.9298592204517807,
+        "fear_mean": 0.005483186071937679,
+        "love_mean": 0.9568053042067155,
+        "entropy_mean": 0.34983531861195255,
+        "age_max": 297.0239999999953,
+        "num_measurements": 18564
+      },
+      "god_ent_021": {
+        "coherence_mean": 0.6029509749763359,
+        "coherence_std": 0.03462027005208535,
+        "pleasure_mean": 0.4849106219563015,
+        "fear_mean": 0.1826182590314877,
+        "love_mean": 0.7328454788625166,
+        "entropy_mean": 0.6005790951281968,
+        "age_max": 297.0239999999953,
+        "num_measurements": 18564
+      },
+      "god_ent_022": {
+        "coherence_mean": 0.624307644934374,
+        "coherence_std": 0.027504621782141532,
+        "pleasure_mean": 0.8034536031249605,
+        "fear_mean": 0.04676359254431358,
+        "love_mean": 0.8591470201826888,
+        "entropy_mean": 0.5426687201697562,
+        "age_max": 297.0239999999953,
+        "num_measurements": 18564
+      },
+      "god_ent_023": {
+        "coherence_mean": 0.5897487889444246,
+        "coherence_std": 0.024702414951338198,
+        "pleasure_mean": 0.13103565333904185,
+        "fear_mean": 0.16935435617606528,
+        "love_mean": 0.5267865094399359,
+        "entropy_mean": 0.5982560832655027,
+        "age_max": 297.0239999999953,
+        "num_measurements": 18564
+      },
+      "god_ent_024": {
+        "coherence_mean": 0.5385972249096668,
+        "coherence_std": 0.05548868452904667,
+        "pleasure_mean": -0.41956282437144493,
+        "fear_mean": 0.6257802258750929,
+        "love_mean": 0.27985539739023313,
+        "entropy_mean": 0.6182691362541649,
+        "age_max": 297.0239999999953,
+        "num_measurements": 18564
+      },
+      "god_ent_025": {
+        "coherence_mean": 0.5004087992479495,
+        "coherence_std": 0.024639375733576344,
+        "pleasure_mean": -0.9976665313832884,
+        "fear_mean": 0.9728631030375315,
+        "love_mean": 0.001629900579965803,
+        "entropy_mean": 0.7944846524310049,
+        "age_max": 297.0239999999953,
+        "num_measurements": 18564
+      },
+      "god_ent_026": {
+        "coherence_mean": 0.6594435366137549,
+        "coherence_std": 0.02706025813023395,
+        "pleasure_mean": 0.9958127188132834,
+        "fear_mean": 0.0014194196656565088,
+        "love_mean": 0.9981966912842509,
+        "entropy_mean": 0.19432998127686138,
+        "age_max": 297.0239999999953,
+        "num_measurements": 18564
+      },
+      "god_ent_027": {
+        "coherence_mean": 0.5926645160684387,
+        "coherence_std": 0.0784611699195226,
+        "pleasure_mean": -0.9854331833155894,
+        "fear_mean": 0.8408621774014495,
+        "love_mean": 0.011162726430595425,
+        "entropy_mean": 0.8055739990039847,
+        "age_max": 297.0239999999953,
+        "num_measurements": 18564
+      },
+      "god_ent_028": {
+        "coherence_mean": 0.6024953381543587,
+        "coherence_std": 0.03370850439799056,
+        "pleasure_mean": 0.9956881139783165,
+        "fear_mean": 0.0009900466574397587,
+        "love_mean": 0.9974838146079769,
+        "entropy_mean": 0.41943810437022594,
+        "age_max": 297.0239999999953,
+        "num_measurements": 18564
+      },
+      "god_ent_029": {
+        "coherence_mean": 0.5881999870779829,
+        "coherence_std": 0.02941169305705555,
+        "pleasure_mean": -0.28127316384421197,
+        "fear_mean": 0.4932193613779365,
+        "love_mean": 0.4348742118432087,
+        "entropy_mean": 0.5997325025886345,
+        "age_max": 297.0239999999953,
+        "num_measurements": 18564
+      },
+      "god_ent_030": {
+        "coherence_mean": 0.5401803195684917,
+        "coherence_std": 0.05681610641952537,
+        "pleasure_mean": 0.6448602962245205,
+        "fear_mean": 0.091671358877743,
+        "love_mean": 0.823204455080745,
+        "entropy_mean": 0.5004788047433313,
+        "age_max": 297.0239999999953,
+        "num_measurements": 18564
+      },
+      "god_ent_031": {
+        "coherence_mean": 0.5902608582600437,
+        "coherence_std": 0.02427905227107823,
+        "pleasure_mean": -0.32546303168484003,
+        "fear_mean": 0.6028714537784068,
+        "love_mean": 0.30155422154405176,
+        "entropy_mean": 0.6218930028173164,
+        "age_max": 297.0239999999953,
+        "num_measurements": 18564
+      },
+      "god_ent_032": {
+        "coherence_mean": 0.5884556738762254,
+        "coherence_std": 0.026498227919578624,
+        "pleasure_mean": 0.7016834504318779,
+        "fear_mean": 0.0535963398718901,
+        "love_mean": 0.8562975854056547,
+        "entropy_mean": 0.5078503876888315,
+        "age_max": 297.0239999999953,
+        "num_measurements": 18564
+      },
+      "god_ent_033": {
+        "coherence_mean": 0.602410972130427,
+        "coherence_std": 0.033521127940448286,
+        "pleasure_mean": 0.9972186334247549,
+        "fear_mean": 0.001471317888972741,
+        "love_mean": 0.9974251917395616,
+        "entropy_mean": 0.15654044265343162,
+        "age_max": 297.0239999999953,
+        "num_measurements": 18564
+      },
+      "god_ent_034": {
+        "coherence_mean": 0.4359111740504096,
+        "coherence_std": 0.0889226489701372,
+        "pleasure_mean": -0.18324674637024402,
+        "fear_mean": 0.5123890742738503,
+        "love_mean": 0.3956520090308626,
+        "entropy_mean": 0.4861555348507697,
+        "age_max": 297.0239999999953,
+        "num_measurements": 18564
+      }
+    },
+    "behavior_clusters": {
+      "cluster_0": {
+        "entities": [
+          "god_ent_000",
+          "god_ent_009",
+          "god_ent_029",
+          "god_ent_031"
+        ],
+        "size": 4,
+        "coherence_mean": 0.5926879109571047,
+        "pleasure_mean": -0.3153289335847015,
+        "behavior_type": "fear_dominant"
+      },
+      "cluster_1": {
+        "entities": [
+          "god_ent_001",
+          "god_ent_019",
+          "god_ent_027"
+        ],
+        "size": 3,
+        "coherence_mean": 0.5798184601337399,
+        "pleasure_mean": -0.9670186653933456,
+        "behavior_type": "fear_dominant"
+      },
+      "cluster_2": {
+        "entities": [
+          "god_ent_002",
+          "god_ent_003",
+          "god_ent_005",
+          "god_ent_006",
+          "god_ent_008",
+          "god_ent_011",
+          "god_ent_012",
+          "god_ent_013",
+          "god_ent_014",
+          "god_ent_015",
+          "god_ent_016",
+          "god_ent_017",
+          "god_ent_018",
+          "god_ent_020",
+          "god_ent_021",
+          "god_ent_022",
+          "god_ent_023",
+          "god_ent_028",
+          "god_ent_030",
+          "god_ent_032",
+          "god_ent_033"
+        ],
+        "size": 21,
+        "coherence_mean": 0.6111883231433357,
+        "pleasure_mean": 0.7381796040423267,
+        "behavior_type": "love_dominant"
+      },
+      "outliers": {
+        "entities": [
+          "god_ent_004",
+          "god_ent_007",
+          "god_ent_010",
+          "god_ent_024",
+          "god_ent_025",
+          "god_ent_026",
+          "god_ent_034"
+        ],
+        "size": 7,
+        "coherence_mean": 0.5600066202123392,
+        "pleasure_mean": -0.14359675301621838,
+        "behavior_type": "balanced_entities"
+      }
+    },
+    "leader_entities": [
+      {
+        "entity_id": "god_ent_012",
+        "leader_score": 0.8815240145501251
+      },
+      {
+        "entity_id": "god_ent_018",
+        "leader_score": 0.8631032362526132
+      },
+      {
+        "entity_id": "god_ent_026",
+        "leader_score": 0.8620570154847808
+      },
+      {
+        "entity_id": "god_ent_002",
+        "leader_score": 0.8453853728049191
+      },
+      {
+        "entity_id": "god_ent_033",
+        "leader_score": 0.839578234475759
+      }
+    ]
+  },
+  "anomaly_analysis": {
+    "total_anomalies": 7444,
+    "anomalies_by_type": {
+      "consciousness_spike": 3230,
+      "entropy_surge": 2279,
+      "coherence_collapse": 1590,
+      "field_dissonance": 174,
+      "quantum_healing": 171
+    },
+    "anomalies_by_severity": {
+      "HIGH": 4040,
+      "LOW": 3230,
+      "MEDIUM": 174
+    },
+    "hourly_distribution": {
+      "16": 7444
+    },
+    "coherence_impact": {
+      "mean_change": -0.0006386755986471305,
+      "max_positive": 0.0011678047302418892,
+      "max_negative": -0.006190256870851396,
+      "positive_anomalies": 12,
+      "negative_anomalies": 1578
+    },
+    "impact_by_type": {
+      "consciousness_spike": {
+        "count": 3230,
+        "mean_coherence_change": 0.0,
+        "severity_distribution": {
+          "LOW": 3230
+        }
+      },
+      "entropy_surge": {
+        "count": 2279,
+        "mean_coherence_change": 0.0,
+        "severity_distribution": {
+          "HIGH": 2279
+        }
+      },
+      "quantum_healing": {
+        "count": 171,
+        "mean_coherence_change": 0.0,
+        "severity_distribution": {
+          "HIGH": 171
+        }
+      },
+      "field_dissonance": {
+        "count": 174,
+        "mean_coherence_change": 0.0,
+        "severity_distribution": {
+          "MEDIUM": 174
+        }
+      },
+      "coherence_collapse": {
+        "count": 1590,
+        "mean_coherence_change": -0.002990126513414616,
+        "severity_distribution": {
+          "HIGH": 1590
+        }
+      }
+    }
+  },
+  "correlation_analysis": {
+    "swarm_correlations": {
+      "matrix": {
+        "swarm_size": {
+          "swarm_size": NaN,
+          "avg_coherence": NaN,
+          "avg_pleasure": NaN,
+          "avg_fear": NaN,
+          "avg_love": NaN,
+          "coherence_std": NaN,
+          "entropy_avg": NaN,
+          "quantum_connections": NaN,
+          "temporal_cycles": NaN,
+          "communications_per_cycle": NaN
+        },
+        "avg_coherence": {
+          "swarm_size": NaN,
+          "avg_coherence": 1.0,
+          "avg_pleasure": 0.8060023690097372,
+          "avg_fear": -0.895636456403017,
+          "avg_love": 0.908144030008461,
+          "coherence_std": -0.7174736809376744,
+          "entropy_avg": -0.5178343311072441,
+          "quantum_connections": NaN,
+          "temporal_cycles": -0.9090808751583691,
+          "communications_per_cycle": -0.1048153866287787
+        },
+        "avg_pleasure": {
+          "swarm_size": NaN,
+          "avg_coherence": 0.8060023690097372,
+          "avg_pleasure": 1.0,
+          "avg_fear": -0.6984301519531393,
+          "avg_love": 0.9510820980142245,
+          "coherence_std": -0.7684415372862559,
+          "entropy_avg": -0.30227924476492146,
+          "quantum_connections": NaN,
+          "temporal_cycles": -0.6727778033016523,
+          "communications_per_cycle": 0.3941181464091645
+        },
+        "avg_fear": {
+          "swarm_size": NaN,
+          "avg_coherence": -0.895636456403017,
+          "avg_pleasure": -0.6984301519531393,
+          "avg_fear": 1.0,
+          "avg_love": -0.8466101860673735,
+          "coherence_std": 0.7098240603298324,
+          "entropy_avg": 0.6665466157918122,
+          "quantum_connections": NaN,
+          "temporal_cycles": 0.9863656394344611,
+          "communications_per_cycle": 0.19841606393870106
+        },
+        "avg_love": {
+          "swarm_size": NaN,
+          "avg_coherence": 0.908144030008461,
+          "avg_pleasure": 0.9510820980142245,
+          "avg_fear": -0.8466101860673735,
+          "avg_love": 1.0,
+          "coherence_std": -0.8110094479876281,
+          "entropy_avg": -0.43127814249619073,
+          "quantum_connections": NaN,
+          "temporal_cycles": -0.8327058867320491,
+          "communications_per_cycle": 0.15059617043911086
+        },
+        "coherence_std": {
+          "swarm_size": NaN,
+          "avg_coherence": -0.7174736809376744,
+          "avg_pleasure": -0.7684415372862559,
+          "avg_fear": 0.7098240603298324,
+          "avg_love": -0.8110094479876281,
+          "coherence_std": 1.0,
+          "entropy_avg": 0.19324773479966875,
+          "quantum_connections": NaN,
+          "temporal_cycles": 0.7276126527040085,
+          "communications_per_cycle": -0.2487969251702172
+        },
+        "entropy_avg": {
+          "swarm_size": NaN,
+          "avg_coherence": -0.5178343311072441,
+          "avg_pleasure": -0.30227924476492146,
+          "avg_fear": 0.6665466157918122,
+          "avg_love": -0.43127814249619073,
+          "coherence_std": 0.19324773479966875,
+          "entropy_avg": 1.0,
+          "quantum_connections": NaN,
+          "temporal_cycles": 0.6245721678026305,
+          "communications_per_cycle": 0.3121172029390332
+        },
+        "quantum_connections": {
+          "swarm_size": NaN,
+          "avg_coherence": NaN,
+          "avg_pleasure": NaN,
+          "avg_fear": NaN,
+          "avg_love": NaN,
+          "coherence_std": NaN,
+          "entropy_avg": NaN,
+          "quantum_connections": NaN,
+          "temporal_cycles": NaN,
+          "communications_per_cycle": NaN
+        },
+        "temporal_cycles": {
+          "swarm_size": NaN,
+          "avg_coherence": -0.9090808751583691,
+          "avg_pleasure": -0.6727778033016523,
+          "avg_fear": 0.9863656394344611,
+          "avg_love": -0.8327058867320491,
+          "coherence_std": 0.7276126527040085,
+          "entropy_avg": 0.6245721678026305,
+          "quantum_connections": NaN,
+          "temporal_cycles": 1.0,
+          "communications_per_cycle": 0.24106197681526595
+        },
+        "communications_per_cycle": {
+          "swarm_size": NaN,
+          "avg_coherence": -0.1048153866287787,
+          "avg_pleasure": 0.3941181464091645,
+          "avg_fear": 0.19841606393870106,
+          "avg_love": 0.15059617043911086,
+          "coherence_std": -0.2487969251702172,
+          "entropy_avg": 0.3121172029390332,
+          "quantum_connections": NaN,
+          "temporal_cycles": 0.24106197681526595,
+          "communications_per_cycle": 1.0
+        }
+      },
+      "strong_correlations": [
+        {
+          "variable1": "avg_fear",
+          "variable2": "temporal_cycles",
+          "correlation": 0.9863656394344611,
+          "strength": "positive"
+        },
+        {
+          "variable1": "avg_pleasure",
+          "variable2": "avg_love",
+          "correlation": 0.9510820980142245,
+          "strength": "positive"
+        },
+        {
+          "variable1": "avg_coherence",
+          "variable2": "temporal_cycles",
+          "correlation": -0.9090808751583691,
+          "strength": "negative"
+        },
+        {
+          "variable1": "avg_coherence",
+          "variable2": "avg_love",
+          "correlation": 0.908144030008461,
+          "strength": "positive"
+        },
+        {
+          "variable1": "avg_coherence",
+          "variable2": "avg_fear",
+          "correlation": -0.895636456403017,
+          "strength": "negative"
+        },
+        {
+          "variable1": "avg_fear",
+          "variable2": "avg_love",
+          "correlation": -0.8466101860673735,
+          "strength": "negative"
+        },
+        {
+          "variable1": "avg_love",
+          "variable2": "temporal_cycles",
+          "correlation": -0.8327058867320491,
+          "strength": "negative"
+        },
+        {
+          "variable1": "avg_love",
+          "variable2": "coherence_std",
+          "correlation": -0.8110094479876281,
+          "strength": "negative"
+        },
+        {
+          "variable1": "avg_coherence",
+          "variable2": "avg_pleasure",
+          "correlation": 0.8060023690097372,
+          "strength": "positive"
+        },
+        {
+          "variable1": "avg_pleasure",
+          "variable2": "coherence_std",
+          "correlation": -0.7684415372862559,
+          "strength": "negative"
+        },
+        {
+          "variable1": "coherence_std",
+          "variable2": "temporal_cycles",
+          "correlation": 0.7276126527040085,
+          "strength": "positive"
+        },
+        {
+          "variable1": "avg_coherence",
+          "variable2": "coherence_std",
+          "correlation": -0.7174736809376744,
+          "strength": "negative"
+        },
+        {
+          "variable1": "avg_fear",
+          "variable2": "coherence_std",
+          "correlation": 0.7098240603298324,
+          "strength": "positive"
+        }
+      ]
+    },
+    "entity_correlations": {
+      "matrix": {
+        "coherence": {
+          "coherence": 1.0,
+          "pleasure": 0.36153138611852803,
+          "fear": -0.3531270670208231,
+          "love": 0.37244190598523813,
+          "entropy": -0.10132341463445288
+        },
+        "pleasure": {
+          "coherence": 0.36153138611852803,
+          "pleasure": 1.0,
+          "fear": -0.8731759754952532,
+          "love": 0.9896330525655849,
+          "entropy": -0.6886824225253648
+        },
+        "fear": {
+          "coherence": -0.3531270670208231,
+          "pleasure": -0.8731759754952532,
+          "fear": 1.0,
+          "love": -0.8515068534087913,
+          "entropy": 0.6694237387265024
+        },
+        "love": {
+          "coherence": 0.37244190598523813,
+          "pleasure": 0.9896330525655849,
+          "fear": -0.8515068534087913,
+          "love": 1.0,
+          "entropy": -0.6836147807132867
+        },
+        "entropy": {
+          "coherence": -0.10132341463445288,
+          "pleasure": -0.6886824225253648,
+          "fear": 0.6694237387265024,
+          "love": -0.6836147807132867,
+          "entropy": 1.0
+        }
+      },
+      "key_relationships": {
+        "coherence_pleasure": 0.36153138611852803,
+        "coherence_fear": -0.3531270670208231,
+        "pleasure_love": 0.9896330525655849
+      }
+    }
+  },
+  "emergence_analysis": {},
+  "quantum_analysis": {
+    "event_type_distribution": {
+      "quantum_tunneling": 1
+    },
+    "quantum_active_entities": {
+      "total_unique": 1,
+      "top_participants": [
+        [
+          "god_ent_020",
+          1
+        ]
+      ],
+      "participation_distribution": {
+        "mean": 1.0,
+        "median": 1.0,
+        "std": 0.0,
+        "min": 1,
+        "max": 1,
+        "q1": 1.0,
+        "q3": 1.0
+      }
+    }
+  },
+  "consciousness_analysis": {
+    "consciousness_event_types": {
+      "inspiration": 41755
+    },
+    "consciousness_maturity": [
+      {
+        "entity_id": "god_ent_025",
+        "maturity_score": 0.5137602513227513,
+        "event_count": 1000,
+        "type_diversity": 1,
+        "consciousness_duration_days": 0.48160879629629627
+      },
+      {
+        "entity_id": "god_ent_001",
+        "maturity_score": 0.5137595899470899,
+        "event_count": 1071,
+        "type_diversity": 1,
+        "consciousness_duration_days": 0.48158564814814814
+      },
+      {
+        "entity_id": "god_ent_033",
+        "maturity_score": 0.5137595899470899,
+        "event_count": 1879,
+        "type_diversity": 1,
+        "consciousness_duration_days": 0.48158564814814814
+      },
+      {
+        "entity_id": "god_ent_029",
+        "maturity_score": 0.5137595899470899,
+        "event_count": 1563,
+        "type_diversity": 1,
+        "consciousness_duration_days": 0.48158564814814814
+      },
+      {
+        "entity_id": "god_ent_014",
+        "maturity_score": 0.5137592592592592,
+        "event_count": 1036,
+        "type_diversity": 1,
+        "consciousness_duration_days": 0.4815740740740741
+      },
+      {
+        "entity_id": "god_ent_002",
+        "maturity_score": 0.5137592592592592,
+        "event_count": 2093,
+        "type_diversity": 1,
+        "consciousness_duration_days": 0.4815740740740741
+      },
+      {
+        "entity_id": "god_ent_004",
+        "maturity_score": 0.5137592592592592,
+        "event_count": 1495,
+        "type_diversity": 1,
+        "consciousness_duration_days": 0.4815740740740741
+      },
+      {
+        "entity_id": "god_ent_026",
+        "maturity_score": 0.5137589285714286,
+        "event_count": 1346,
+        "type_diversity": 1,
+        "consciousness_duration_days": 0.4815625
+      },
+      {
+        "entity_id": "god_ent_003",
+        "maturity_score": 0.5137589285714286,
+        "event_count": 1470,
+        "type_diversity": 1,
+        "consciousness_duration_days": 0.4815625
+      },
+      {
+        "entity_id": "god_ent_013",
+        "maturity_score": 0.5137589285714286,
+        "event_count": 1288,
+        "type_diversity": 1,
+        "consciousness_duration_days": 0.4815625
+      }
+    ]
+  }
+}
